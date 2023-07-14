@@ -1,10 +1,11 @@
 {
   "name": "greenpark",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto para Green Acesso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "Evandro Florscuk <evandro_ff@me.com>",
